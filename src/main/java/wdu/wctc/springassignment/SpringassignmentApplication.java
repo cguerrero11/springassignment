@@ -9,6 +9,7 @@ public class SpringassignmentApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringassignmentApplication.class, args);
 
+
     }
 
 }
